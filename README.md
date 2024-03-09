@@ -3,7 +3,7 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（如果您从 Manning 网站下载了代码包，请考虑访问 GitHub 上的官方代码存储库：</font></font><a href="https://github.com/rasbt/LLMs-from-scratch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/rasbt/LLMs-from-scratch</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。）</font></font></p>
 <br>
 <br>
-<p dir="auto"><a href="http://mng.bz/orYv" rel="nofollow"><img src="/rasbt/LLMs-from-scratch/raw/main/images/cover.jpg" width="250px" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="http://mng.bz/orYv" rel="nofollow"><img src="https://github.com/rasbt/LLMs-from-scratch/raw/main/images/cover.jpg" width="250px" style="max-width: 100%;"></a></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><a href="http://mng.bz/orYv" rel="nofollow"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建大型语言模型（从头开始）</font></font></em></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中，您将发现法学硕士如何从内到外地工作。</font><font style="vertical-align: inherit;">在本书中，我将逐步指导您创建自己的法学硕士，并用清晰的文本、图表和示例解释每个阶段。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本书中描述的用于出于教育目的训练和开发您自己的小型但实用的模型的方法反映了创建大型基础模型（例如 ChatGPT 背后的模型）所使用的方法。</font></font></p>
 <ul dir="auto">
